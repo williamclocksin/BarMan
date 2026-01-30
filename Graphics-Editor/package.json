@@ -1,0 +1,21 @@
+{
+    "name": "ged",
+    "version": "1.0.0",
+    "description": "Graphics Editor",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc -p . && webpack"
+    },
+    "author": "gmg",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^3.6.2"
+    },
+    "dependencies": {
+        "ts-loader": "^7.0.4",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.11",
+        "xel": "0.0.220"
+    }
+}
