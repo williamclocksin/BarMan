@@ -1,0 +1,3 @@
+BarMan is an experimental music notation editor in which nothing is assumed.
+So, bars of music may be unmeasured, contain different numbers of beats, different lengths, and polymetres.
+BarMan's formatting algorithm will format what it can. There is an option to format according to polymetres with or without coinciding barlines.  The point of this is so the user can draft incomplete music notation without constraint, and without receiving error messages.
