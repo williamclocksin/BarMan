@@ -10,5 +10,5 @@ polymetres with or without coinciding barlines.
 The point of this is so the user can draft incomplete music notation without constraint,
 and without receiving error messages.
 
-The directory include source from Graphics-Editor by , which I am using to learn about TypeScript and making a
-graphic editor can eventually become a music notation editor.
+The directory include source from Graphics-Editor by Edison Serrano, which I am using to learn about TypeScript and making a
+graphic editor which can eventually become a music notation editor.
